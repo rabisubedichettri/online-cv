@@ -108,13 +108,13 @@ skills:
         level: 70%
 
       - name: Git & Github
-        level: 75%
+        level: 60%
 
       - name: Docker & Kubernetes
-        level: 65%
+        level: 60%
       
       - name: Jenkins
-        level: 70% 
+        level: 50% 
 
 
 footer:
